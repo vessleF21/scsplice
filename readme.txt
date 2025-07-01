@@ -1,1 +1,1 @@
-
+The scripts in this repository support the splicing QTL analysis conducted on OneK1K data, forming the computational foundation of the study exploring how cell type-specific splicing regulation contributes to complex diseases using single-cell RNA sequencing.
