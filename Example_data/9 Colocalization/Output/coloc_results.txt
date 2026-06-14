@@ -1,0 +1,62 @@
+=== Binary trait: LiuZ_NatGenet_2023_CD ===
+This is coloc version 5.2.3
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package ‘dplyr’ was built under R version 4.4.1 
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+Warning message:
+package ‘data.table’ was built under R version 4.4.1 
+[1] "start read in"
+[1] "finished prepare"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 1.28e-22  1.11e-10  1.15e-15  5.90e-11  1.00e+00 
+[1] "PP abf for shared variant: 100%"
+
+=== Quantitative trait: ChenMH_CELL_2020_LYM ===
+This is coloc version 5.2.3
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package ‘dplyr’ was built under R version 4.4.1 
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+Warning message:
+package ‘data.table’ was built under R version 4.4.1 
+[1] "start read in"
+[1] "finished prepare"
+PP.H0.abf PP.H1.abf PP.H2.abf PP.H3.abf PP.H4.abf 
+ 7.96e-27  1.11e-10  7.15e-20  4.29e-07  1.00e+00 
+[1] "PP abf for shared variant: 100%"
+Warning message:
+In sdY.est(d$varbeta, d$MAF, d$N) :
+  estimating sdY from maf and varbeta, please directly supply sdY if known
