@@ -1,0 +1,77 @@
+status	loglr	df	p	cluster	p.adjust
+Success	0.00403993845560535	1	0.928376109449498	chr1:clu_1_-	0.972655854334684
+Success	0.235692119500982	3	0.925131660839586	chr1:clu_2_-	0.972655854334684
+Success	1.37508080648632	1	0.0972445987201232	chr1:clu_3_-	0.646297051094151
+Success	0.42147273375285	1	0.358555722216899	chr1:clu_4_+	0.768904633456189
+Success	0.0011987719737192	1	0.960947410397965	chr1:clu_5_+	0.972655854334684
+Success	0.952002269274772	1	0.167630767868776	chr1:clu_6_+	0.646297051094151
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr1:clu_7_+	NA
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr10:clu_8_+	NA
+Success	0.550906384112295	2	0.576427109158592	chr10:clu_9_+	0.972655854334684
+Success	0.349627572601548	2	0.704950583747637	chr11:clu_10_+	0.972655854334684
+Success	0.42100566514091	1	0.358822162279555	chr11:clu_11_+	0.768904633456189
+<2 introns used in >=min_samples_per_intron samples	NA	NA	NA	chr11:clu_12_+	NA
+Success	2.04983999650642	1	0.0428913309308177	chr11:clu_13_+	0.596913757164917
+Success	0.0122735241826888	1	0.875501009090484	chr11:clu_14_+	0.972655854334684
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr11:clu_15_-	NA
+Success	0.0277249548033751	2	0.972655854334684	chr11:clu_16_-	0.972655854334684
+Success	1.28671966718991	2	0.276175245529042	chr11:clu_17_-	0.696735538223015
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr11:clu_18_-	NA
+Success	1.48192254040464	8	0.936605911887411	chr12:clu_19_-	0.972655854334684
+Not enough valid samples	NA	NA	NA	chr12:clu_20_-	NA
+Success	0.00978440654867541	1	0.888748029253691	chr12:clu_21_+	0.972655854334684
+Success	0.767269993626599	1	0.215432350364717	chr12:clu_22_+	0.646297051094151
+Success	0.111009467011144	1	0.637505879106945	chr12:clu_23_+	0.972655854334684
+<2 introns used in >=min_samples_per_intron samples	NA	NA	NA	chr12:clu_24_+	NA
+Success	0.318575698848065	1	0.424744203607497	chr13:clu_25_-	0.855176842359512
+Success	3.24438783161713	2	0.038992426983538	chr15:clu_26_+	0.596913757164917
+Success	0.778432437231459	1	0.212124853970339	chr16:clu_27_-	0.646297051094151
+Not enough valid samples	NA	NA	NA	chr16:clu_28_-	NA
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr16:clu_29_+	NA
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr17:clu_30_+	NA
+Success	0.01773510598332	1	0.850613759401141	chr17:clu_31_+	0.972655854334684
+Success	1.13576679965513	1	0.131769452023758	chr17:clu_32_+	0.646297051094151
+Not enough valid samples	NA	NA	NA	chr19:clu_33_+	NA
+Success	0.586723231276096	1	0.278694215289206	chr19:clu_34_+	0.696735538223015
+Not enough valid samples	NA	NA	NA	chr19:clu_35_+	NA
+<2 introns used in >=min_samples_per_intron samples	NA	NA	NA	chr19:clu_36_+	NA
+Success	0.252637070221226	3	0.917731187540264	chr19:clu_37_+	0.972655854334684
+<2 introns used in >=min_samples_per_intron samples	NA	NA	NA	chr19:clu_38_+	NA
+Success	0.0913044219367976	1	0.669140761539436	chr19:clu_39_+	0.972655854334684
+Success	3.56973254579242	2	0.0281633850889435	chr19:clu_40_+	0.596913757164917
+Success	0.0234828332015411	1	0.828429962682576	chr19:clu_41_-	0.972655854334684
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr2:clu_42_-	NA
+<2 introns used in >=min_samples_per_intron samples	NA	NA	NA	chr2:clu_43_+	NA
+Success	3.72164930044767	4	0.114235732823379	chr2:clu_44_+	0.646297051094151
+Success	0.289447755090748	1	0.446745571591823	chr2:clu_45_+	0.855176842359512
+Not enough valid samples	NA	NA	NA	chr2:clu_46_+	NA
+<2 introns used in >=min_samples_per_intron samples	NA	NA	NA	chr2:clu_47_+	NA
+Success	0.260359555556875	1	0.470535090783763	chr2:clu_48_+	0.855176842359512
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr20:clu_49_-	NA
+Not enough valid samples	NA	NA	NA	chr20:clu_50_-	NA
+Success	1.81356900821106	5	0.604243300917895	chr20:clu_51_+	0.972655854334684
+Success	0.500906545816179	2	0.605981061036517	chr20:clu_52_+	0.972655854334684
+Success	0.279629611881319	2	0.756063726622242	chr22:clu_53_-	0.972655854334684
+<2 introns used in >=min_samples_per_intron samples	NA	NA	NA	chr3:clu_54_-	NA
+Success	1.49230928290081	1	0.0840590902010821	chr3:clu_55_-	0.646297051094151
+<2 introns used in >=min_samples_per_intron samples	NA	NA	NA	chr3:clu_56_-	NA
+Not enough valid samples	NA	NA	NA	chr3:clu_57_-	NA
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr3:clu_58_-	NA
+Success	0.306704369287672	2	0.73586811396861	chr4:clu_59_-	0.972655854334684
+Success	0.943567044320844	1	0.169525522469764	chr4:clu_60_-	0.646297051094151
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr4:clu_61_-	NA
+Not enough valid samples	NA	NA	NA	chr4:clu_62_-	NA
+Success	1.8710298722221	1	0.0530590006368815	chr4:clu_63_+	0.596913757164917
+Success	0.820620549721809	1	0.200155269379121	chr5:clu_64_+	0.646297051094151
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr5:clu_65_+	NA
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr6:clu_66_-	NA
+Success	2.51287779238987	3	0.169920879450184	chr6:clu_67_-	0.646297051094151
+<=1 sample with coverage>min_coverage	NA	NA	NA	chr6:clu_68_+	NA
+Success	0.780380826996748	1	0.211553734328064	chr6:clu_69_+	0.646297051094151
+Success	1.10271105575612	2	0.331969873797697	chr7:clu_70_-	0.768904633456189
+Success	0.16544227745942	2	0.847518782730358	chr8:clu_71_-	0.972655854334684
+Success	1.31049054008349	2	0.269687731289735	chr8:clu_72_-	0.696735538223015
+Success	0.0136264678523332	1	0.868877368975187	chr9:clu_73_-	0.972655854334684
+<2 introns used in >=min_samples_per_intron samples	NA	NA	NA	chr9:clu_74_-	NA
+Not enough valid samples	NA	NA	NA	chrX:clu_75_-	NA
+Success	1.75915991960937	4	0.475098245755284	chrX:clu_76_+	0.855176842359512
