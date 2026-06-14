@@ -1,0 +1,6 @@
+B1@682_683@CD4Naive.bam.junc
+B1@686_687@CD4Naive.bam.junc
+B1@688_689@CD4Naive.bam.junc
+B1@689_690@CD4Naive.bam.junc
+B1@692_693@CD4Naive.bam.junc
+B1@693_694@CD4Naive.bam.junc
