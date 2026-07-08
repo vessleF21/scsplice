@@ -1,2 +1,0 @@
-
-The figure were generated using Adobe Illustrator.
